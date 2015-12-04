@@ -7,3 +7,6 @@ void main(){
 	
 	return;
 }
+void func1(){
+	set_color;
+}
